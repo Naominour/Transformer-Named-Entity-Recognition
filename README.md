@@ -10,7 +10,7 @@ Evaluate the performance of the fine-tuned model on an NER dataset.
 The goal is to leverage the power of transformer-based models, which have shown state-of-the-art performance in various NLP tasks, to improve the accuracy and efficiency of NER systems. This involves loading a pre-trained model, preparing the dataset, fine-tuning the model, and evaluating its performance using relevant metrics.
 
 <div align="center">
-<img src="\NER.png" style="width:450px;"> <br>Designed by Freepik
+<img src="\NER.png" style="width:450px;">
 </div>
 
 ![Deep Learning](https://img.shields.io/badge/Skill-Deep%20Learning-yellow)
